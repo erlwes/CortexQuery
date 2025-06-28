@@ -1,7 +1,7 @@
 # PSCortexXQL
 Run XQL-queries vs. Palo Alto Cortex/XSIAM API using PowerShell.
 
-!Work in progress!
+⚠️ Work in (slow) progress ⚠️
 
 ### Testing
 ```PowerShell
