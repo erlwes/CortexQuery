@@ -68,6 +68,6 @@ These API calls are used: `start_xql_query`, `get_query_results` and `get_query_
 - [Cortex XDR API Docs - Auth](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-REST-API/API-Reference)
 - [Start XQL Query](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-REST-API/Start-an-XQL-Query)
 - [Get XQL Query Results](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-REST-API/Get-XQL-Query-Results)
-- [Get XQL Query Results Steam]([https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-REST-API/Get-XQL-Query-Results](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-REST-API/Get-XQL-Query-Results-Stream))
+- [Get XQL Query Results Steam]([https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-REST-API/Get-XQL-Query-Results](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR-REST-API/Get-XQL-Query-Results-Stream)
 
 ---
