@@ -9,12 +9,6 @@ Install the module from PowerShell Gallery:
 Install-Module -Name CortexQuery
 ```
 
-Import the module:
-
-```powershell
-Import-Module CortexQuery
-```
-
 ---
 
 ## 🚀 Quickstart
